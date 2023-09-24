@@ -1,0 +1,84 @@
+
+CodeWithHarry
+https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1/9.01]
+C is statically-typed-language [i.e. Datatype cannot b changed during runtime]
+History: 1960 Algol [Algorithmic Language]
+         1963 CPL [Combined Programming Language]
+         1967 BCPL [Basic Combined Programming Language]
+         1972-73 C by (Dennis Ritchie-Ken Thompson)
+UNICS first OS which was implemented in C [All other OSs were implemented using Assembly-language]
+
+
+AmanBytes
+https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s Learn C Language In 10 Minutes!! C Language Tutorial [Only watched 8/10.35]
+C is Middle-level-language can b used for system-level-programming like writing OS,
+    developing applications and games.
+Structured-Programming-Language [Programs = Functions+Modules]
+Compiler [GCC, Clang widely used] required to be installed
+.c extension and mandatory main() function inside the file
+Other header-files [.h] can be imported into .c files 
+    [ #include<StandardCLibraryFile.h> ] Eg. #include<stdio.h>
+
+
+Problem Solving through Programming in C
+https://www.youtube.com/watch?v=5AHRXOtn9bY&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=2
+Idea of Algorithms [24.30/27.46]
+Problems that can b solved through programming:
+    Steps to execute to arrive at the desired result are known only such problems can b resolved
+Programming = Set of instructions to be provided to a computer-machine to solve a 
+            problem
+            Computer-machine = An electronic machine made of switches understanding only
+            0 [zeros] and 1 [ones] 
+
+
+
+
+Reference(s) / URL(s) / Source(s):
+
+#Article(s) / URL(s):
+https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
+//Dionysia Lemonaki 29Aug2023
+The C Programming Handbook for Beginners
+
+
+https://www.freecodecamp.org/news/the-c-beginners-handbook/  //Flavio Copes 9Mar2020 
+The C Beginner's Handbook: Learn C Programming Language basics in just a few hours
+
+#Video(s):
+freeCodeCamp.org [/9.38.34]
+https://www.youtube.com/watch?v=j-_s8f5K30I 
+Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)
+
+Problem Solving through Programming in C
+https://www.youtube.com/watch?v=5AHRXOtn9bY&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=2
+Idea of Algorithms [18.30/27.46]
+
+CodeWithHarry
+https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [/9.01]
+
+AmanBytes
+https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s Learn C Language In 10 Minutes!! C Language Tutorial [Only watched 8/10.35]
+
+OSOPCoding
+https://www.youtube.com/watch?v=KA1npJCKPCg Tricky Output#19 | Tips & Tricks of C & C++ | Campus Technical | Placements Tips | OSOPCoding
+
+Giraffe Academy
+https://www.youtube.com/watch?v=3lQEunpmtRA&t=1s C Programming | In One Video /25.40
+
+CodeWithHarry
+https://www.youtube.com/watch?v=YXcgD8hRHYY&t=305s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D C Programming Tutorial For Beginners: Learn C In Hindi
+
+freeCodeCamp.org
+https://www.youtube.com/watch?v=KJgsSFOSQv0&t=228s C Programming Tutorial for Beginners /3.46.12
+
+Apna College
+https://www.youtube.com/watch?v=irqbmMNs2Bo&t=1306s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D C Language Tutorial for Beginners (with Notes & Practice Questions)
+
+College wallah
+https://www.youtube.com/watch?v=rQoqCP7LX60&list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt C Programming Course /4.02.25
+
+Caleb curry
+https://www.youtube.com/watch?v=Bz4MxDeEM6k&t=337s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D C Programming All-in-One Tutorial Series (10 HOURS!) /10.12.22
+
+
+//C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0
