@@ -30,10 +30,16 @@ Programming = Set of instructions to be provided to a computer-machine to solve 
             Computer-machine = An electronic machine made of switches understanding only
             0 [zeros] and 1 [ones] 
 
+https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
+Flow Chart and Pseudocode [/32.15]
+Algorithm = Sequence of steps to b followed to solve a problem
 
 
 
 Reference(s) / URL(s) / Source(s):
+
+#Via ChatGPT learning "Python"
+https://www.youtube.com/watch?v=xr68cbOxvBs 
 
 #Article(s) / URL(s):
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
