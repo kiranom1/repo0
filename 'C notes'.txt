@@ -5,6 +5,8 @@ The C Programming Handbook for Beginners
 Programming = Process of "writing  the collection of instructions" that a computer-machine 
     can understand and execute to perform a specific task and solve a particular problem
 
+Next time read from: Low-level VS High-Level VS Middle-level Programming Languages – What's The Difference?
+
 CodeWithHarry
 https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1/9.01]
 C is statically-typed-language [i.e. Datatype cannot b changed during runtime]
@@ -37,8 +39,16 @@ Programming = Set of instructions to be provided to a computer-machine to solve 
             0 [zeros] and 1 [ones] 
 
 https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
-Flow Chart and Pseudocode [1.00/32.15]
+Flow Chart and Pseudocode [8.35/32.15]
 Algorithm = Sequence of steps to be followed to solve a problem
+Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation of a 
+                                                    sequence of steps]
+                                         -Pseudocode [English-like language]
+    Flowchart basic-fundamental-elements: Circle-"Start"/"End"
+                                          Oblong-"Input"/Output" specification
+                                          Rectangle- Computation-box
+                                          Diamond- Decision-box [Decision based on the 
+                                                    condition(s)]
 
 
 
@@ -94,3 +104,5 @@ https://www.youtube.com/watch?v=Bz4MxDeEM6k&t=337s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D
 
 
 //C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0
+
+$ alias cg='"/c/Users/Administrator/fileTransfer.sh"'
