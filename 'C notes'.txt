@@ -1,3 +1,9 @@
+https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
+//Dionysia Lemonaki 29Aug2023
+The C Programming Handbook for Beginners
+
+Programming = Process of "writing  the collection of instructions" that a computer-machine 
+    can understand and execute to perform a specific task and solve a particular problem
 
 CodeWithHarry
 https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1/9.01]
