@@ -31,7 +31,7 @@ Programming = Set of instructions to be provided to a computer-machine to solve 
             0 [zeros] and 1 [ones] 
 
 https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
-Flow Chart and Pseudocode [1.0/32.15]
+Flow Chart and Pseudocode [1.00/32.15]
 Algorithm = Sequence of steps to be followed to solve a problem
 
 
