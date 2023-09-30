@@ -22,7 +22,7 @@ Other header-files [.h] can be imported into .c files
 
 Problem Solving through Programming in C
 https://www.youtube.com/watch?v=5AHRXOtn9bY&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=2
-Idea of Algorithms [24.30/27.46]
+Idea of Algorithms [Watched-27.46]
 Problems that can b solved through programming:
     Steps to execute to arrive at the desired result are known only such problems can b resolved
 Programming = Set of instructions to be provided to a computer-machine to solve a 
@@ -31,8 +31,8 @@ Programming = Set of instructions to be provided to a computer-machine to solve 
             0 [zeros] and 1 [ones] 
 
 https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
-Flow Chart and Pseudocode [/32.15]
-Algorithm = Sequence of steps to b followed to solve a problem
+Flow Chart and Pseudocode [1.0/32.15]
+Algorithm = Sequence of steps to be followed to solve a problem
 
 
 
