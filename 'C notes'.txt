@@ -18,7 +18,10 @@ UNICS first OS which was implemented in C [All other OSs were implemented using 
 
 
 AmanBytes
-https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s Learn C Language In 10 Minutes!! C Language Tutorial [Only watched 8/10.35]
+https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s 
+Learn C Language In 10 Minutes!! C Language Tutorial [0.15/10.35][Only watched 8/10.35]
+Invented by Dennis Ritchie at AT&T Bell Laboratories in early 1970s
+Ideas taken from 'B' Language and its ancestors CPL, and BCPL
 C is Middle-level-language can b used for system-level-programming like writing OS,
     developing applications and games.
 Structured-Programming-Language [Programs = Functions+Modules]
@@ -103,6 +106,6 @@ Caleb curry
 https://www.youtube.com/watch?v=Bz4MxDeEM6k&t=337s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D C Programming All-in-One Tutorial Series (10 HOURS!) /10.12.22
 
 
-//C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0
+//"C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0"
 
 $ alias cg='"/c/Users/Administrator/fileTransfer.sh"'
