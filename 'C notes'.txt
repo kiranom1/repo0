@@ -5,21 +5,28 @@ The C Programming Handbook for Beginners
 Programming = Process of "writing  the collection of instructions" that a computer-machine 
     can understand and execute to perform a specific task and solve a particular problem
 
-Next time read from: Low-level VS High-Level VS Middle-level Programming Languages – What's The Difference?
+Low-level-languages: Machine [Binary] language, Assembly language
+    These language-instructions are closely-related or correspond directly to 
+    specific-machine-instructions
+
+Next time read from: This 'closeness
 
 CodeWithHarry
-https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1/9.01]
+https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1.30/9.01]
 C is statically-typed-language [i.e. Datatype cannot b changed during runtime]
 History: 1960 Algol [Algorithmic Language]
          1963 CPL [Combined Programming Language]
          1967 BCPL [Basic Combined Programming Language]
          1972-73 C by (Dennis Ritchie-Ken Thompson)
 UNICS first OS which was implemented in C [All other OSs were implemented using Assembly-language]
-
+[[UNiplexed Information Computing System [UNICS] 
+https://byjus.com/gate/unix-full-form/#:~:text=The%20Full%20Form%20of%20UNIX%20(also%20referred%20to%20as%20UNICS,in%201969%2C%20UNIX%20is%20powerful.
+]]
+Many things became easier to implement using 'C' language such "FORTRAN"-compiler
 
 AmanBytes
 https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s 
-Learn C Language In 10 Minutes!! C Language Tutorial [0.15/10.35][Only watched 8/10.35]
+Learn C Language In 10 Minutes!! C Language Tutorial [1.15/10.35][Only watched 8/10.35]
 Invented by Dennis Ritchie at AT&T Bell Laboratories in early 1970s
 Ideas taken from 'B' Language and its ancestors CPL, and BCPL
 C is Middle-level-language can b used for system-level-programming like writing OS,
@@ -29,6 +36,8 @@ Compiler [GCC, Clang widely used] required to be installed
 .c extension and mandatory main() function inside the file
 Other header-files [.h] can be imported into .c files 
     [ #include<StandardCLibraryFile.h> ] Eg. #include<stdio.h>
+    [ #include"CustomisedOwnHeaderFile.h"] Eg. #include"filename.h"
+
 
 
 Problem Solving through Programming in C
@@ -42,7 +51,7 @@ Programming = Set of instructions to be provided to a computer-machine to solve 
             0 [zeros] and 1 [ones] 
 
 https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
-Flow Chart and Pseudocode [8.35/32.15]
+Flow Chart and Pseudocode [22.30/32.15]
 Algorithm = Sequence of steps to be followed to solve a problem
 Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation of a 
                                                     sequence of steps]
@@ -52,6 +61,8 @@ Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation
                                           Rectangle- Computation-box
                                           Diamond- Decision-box [Decision based on the 
                                                     condition(s)]
+    "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode.png"
+    "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode2.png"                                            
 
 
 
@@ -64,6 +75,19 @@ https://www.youtube.com/watch?v=xr68cbOxvBs
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
 //Dionysia Lemonaki 29Aug2023
 The C Programming Handbook for Beginners
+**Introduction to C Programming
+Escape sequences are used for representing non-printable characters in text
+
+*What is programming?
+    A collection of detailed instructions is known as program
+
+    Programming = Process of writing the collection of instructions that a computer-machine
+    can understand and execute to perform a specific task to solve a particular problem
+
+Next read from: A programming language is used to write the instructions.
+
+
+
 
 
 https://www.freecodecamp.org/news/the-c-beginners-handbook/  //Flavio Copes 9Mar2020 
