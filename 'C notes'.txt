@@ -23,7 +23,7 @@ Next time read from: Next, high-level languages, like
 
 
 CodeWithHarry
-https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1.30/9.01]
+https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1.38/9.01]
 C is statically-typed-language [i.e. Datatype cannot b changed during runtime]
 History: 1960 Algol [Algorithmic Language]
          1963 CPL [Combined Programming Language]
@@ -33,7 +33,8 @@ UNICS first OS which was implemented in C [All other OSs were implemented using 
 [[UNiplexed Information Computing System [UNICS] 
 https://byjus.com/gate/unix-full-form/#:~:text=The%20Full%20Form%20of%20UNIX%20(also%20referred%20to%20as%20UNICS,in%201969%2C%20UNIX%20is%20powerful.
 ]]
-Many things became easier to implement using 'C' language such "FORTRAN"-compiler
+Many things became easier to implement using 'C' language such as "FORTRAN"-compiler
+In 1989, ANSI-C started standardising C-language since it started becoming popular
 
 AmanBytes
 https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s 
@@ -126,7 +127,13 @@ https://www.youtube.com/watch?v=rQoqCP7LX60&list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5
 Caleb curry
 https://www.youtube.com/watch?v=Bz4MxDeEM6k&t=337s&pp=ygUOQyBpbiBvbmUgdmlkZW8%3D C Programming All-in-One Tutorial Series (10 HOURS!) /10.12.22
 
+https://www.tutorialspoint.com/find-size-of-array-in-c-cplusplus-without-using-sizeof#:~:text=%26a%20%2B%201%20%3D%3E%20It%20points,Print%20the%20size.
+Find size of array in C/C++ without using sizeof
 
-//"C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0"
+https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/#:~:text=C%20does%20not%20provide%20a,%2F%20sizeof(array_name%5Bindex%5D)%3B
+How to Find the Size of An Array in the C Programming Language
 
+/*
+"C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0"
 $ alias cg='"/c/Users/Administrator/fileTransfer.sh"'
+*/
