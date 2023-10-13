@@ -2,14 +2,25 @@ https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/
 //Dionysia Lemonaki 29Aug2023
 The C Programming Handbook for Beginners
 
+**Introduction to C Programming
+Escape sequences are used for representing non-printable characters in text
+
+*What is programming?
 Programming = Process of "writing  the collection of instructions" that a computer-machine 
     can understand and execute to perform a specific task and solve a particular problem
 
 Low-level-languages: Machine [Binary] language, Assembly language
     These language-instructions are closely-related or correspond directly to 
-    specific-machine-instructions
+    specific-machine-instructions which are directly executed by the computer-machine's
+    processor
+    Closeness = Speed+ Efficiency+ Less consumption of memory+ Fine-grain-control over 
+        computer-machine-hardware
+    Machine-language[0 and 1] = Computer-machine-instructions+ Memory-locations
+    Assembly-language [Mnemonics+ Symbols] also works closely w/ machine-instructions 
+        but on a slightly-higher-level only
 
-Next time read from: This 'closeness
+Next time read from: Next, high-level languages, like
+
 
 CodeWithHarry
 https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1.30/9.01]
@@ -74,20 +85,6 @@ https://www.youtube.com/watch?v=xr68cbOxvBs
 #Article(s) / URL(s):
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
 //Dionysia Lemonaki 29Aug2023
-The C Programming Handbook for Beginners
-**Introduction to C Programming
-Escape sequences are used for representing non-printable characters in text
-
-*What is programming?
-    A collection of detailed instructions is known as program
-
-    Programming = Process of writing the collection of instructions that a computer-machine
-    can understand and execute to perform a specific task to solve a particular problem
-
-Next read from: A programming language is used to write the instructions.
-
-
-
 
 
 https://www.freecodecamp.org/news/the-c-beginners-handbook/  //Flavio Copes 9Mar2020 
