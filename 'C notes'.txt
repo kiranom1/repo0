@@ -76,6 +76,8 @@ Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode.png"
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode2.png"                                            
 
+https://www.youtube.com/watch?v=IdXrCPzNnkU&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=4
+Introduction to Programming Language Concepts [/34.39]
 
 
 Reference(s) / URL(s) / Source(s):
