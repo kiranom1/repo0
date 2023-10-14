@@ -1,3 +1,11 @@
+https://learn-c.org/en/Pointers
+*Pointers are used for:
+    -Strings -Dynamic memory allocation
+    -Pointing to functions -Sending function-arguments by reference
+    -Building complicated-data-structures and data-structures [Trees, Tries]
+Next read from: A pointer is essentially
+
+
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
 //Dionysia Lemonaki 29Aug2023
 The C Programming Handbook for Beginners
@@ -9,7 +17,7 @@ Escape sequences are used for representing non-printable characters in text
 Programming = Process of "writing  the collection of instructions" that a computer-machine 
     can understand and execute to perform a specific task and solve a particular problem
 
-Low-level-languages: Machine [Binary] language, Assembly language
+*Low-level-languages: Machine [Binary] language, Assembly language
     These language-instructions are closely-related or correspond directly to 
     specific-machine-instructions which are directly executed by the computer-machine's
     processor
@@ -19,7 +27,11 @@ Low-level-languages: Machine [Binary] language, Assembly language
     Assembly-language [Mnemonics+ Symbols] also works closely w/ machine-instructions 
         but on a slightly-higher-level only
 
-Next time read from: Next, high-level languages, like
+*What is the C Programming Language?
+    C is procedural-programming-language
+
+
+Next time read from: A procedural language is a 
 
 
 CodeWithHarry
@@ -38,7 +50,7 @@ In 1989, ANSI-C started standardising C-language since it started becoming popul
 
 AmanBytes
 https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s 
-Learn C Language In 10 Minutes!! C Language Tutorial [1.15/10.35][Only watched 8/10.35]
+Learn C Language In 10 Minutes!! C Language Tutorial [1.24/10.35][Only watched 8/10.35]
 Invented by Dennis Ritchie at AT&T Bell Laboratories in early 1970s
 Ideas taken from 'B' Language and its ancestors CPL, and BCPL
 C is Middle-level-language can b used for system-level-programming like writing OS,
@@ -47,8 +59,12 @@ Structured-Programming-Language [Programs = Functions+Modules]
 Compiler [GCC, Clang widely used] required to be installed
 .c extension and mandatory main() function inside the file
 Other header-files [.h] can be imported into .c files 
-    [ #include<StandardCLibraryFile.h> ] Eg. #include<stdio.h>
+    [ #include<StandardCLibraryFile.h> ] Eg. #include<stdio.h> [includes scanf (used for 
+                                                                input) and printf (used 
+                                                                for output) functions]
     [ #include"CustomisedOwnHeaderFile.h"] Eg. #include"filename.h"
+    There are 32 keywords in C language: auto, break, case, char, const, continue, 
+                                        default, do
 
 
 
