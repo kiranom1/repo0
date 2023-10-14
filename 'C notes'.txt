@@ -93,8 +93,14 @@ Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode2.png"                                            
 
 https://www.youtube.com/watch?v=IdXrCPzNnkU&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=4
-Introduction to Programming Language Concepts [/34.39]
-
+Introduction to Programming Language Concepts [12.0/34.39]
+    Text/Reference Book(s): C Programming: Kernighan and Ritchie, 
+                            Programming w/ C -B. S. Gottfried, Tata McGraw-Hill
+*What is a computer?
+    A machine which can accept data, process them and output results
+    The specified sequence of steps is remembered by the computer-machine in its memory
+    Each 0 or 1 is known as binary-digit [i.e. bit]
+    Binary Number System [0, 1]
 
 Reference(s) / URL(s) / Source(s):
 
