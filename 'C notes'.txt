@@ -30,8 +30,16 @@ Programming = Process of "writing  the collection of instructions" that a comput
 *What is the C Programming Language?
     C is procedural-programming-language
 
+    Procedural-language = Series of instructions [Procedures+Functions] executed in a specific order
+                            to perform tasks and accomplish goals
+    Thus, C-programs = Functions-executed-sequentially following top-down-approach
 
-Next time read from: A procedural language is a 
+*A Brief History of the C Programming Language
+    Developed by Dennis Ritchie at AT&T Bell Laboratories
+    C = Inspiration from [B+ Basic-Combined-Programming-Language [BCPL]] + Additional-features
+
+
+Next time read from: C Language Characteristics and Use Cases
 
 
 CodeWithHarry
