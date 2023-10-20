@@ -37,13 +37,15 @@ Programming = Process of "writing  the collection of instructions" that a comput
 *A Brief History of the C Programming Language
     Developed by Dennis Ritchie at AT&T Bell Laboratories
     C = Inspiration from [B+ Basic-Combined-Programming-Language [BCPL]] + Additional-features
+    According to TIOBE index, C is the second most popular as of August2023.
+        [[TIOBE - The Importance Of Being Earnest]]
 
 
-Next time read from: C Language Characteristics and Use Cases
+Next time read from: This is because C is
 
 
 CodeWithHarry
-https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [1.38/9.01]
+https://www.youtube.com/watch?v=IygPoF9Y5O8&t=305s C Language in 9 Minutes (in Hindi) [2.08/9.01]
 C is statically-typed-language [i.e. Datatype cannot b changed during runtime]
 History: 1960 Algol [Algorithmic Language]
          1963 CPL [Combined Programming Language]
@@ -54,7 +56,12 @@ UNICS first OS which was implemented in C [All other OSs were implemented using 
 https://byjus.com/gate/unix-full-form/#:~:text=The%20Full%20Form%20of%20UNIX%20(also%20referred%20to%20as%20UNICS,in%201969%2C%20UNIX%20is%20powerful.
 ]]
 Many things became easier to implement using 'C' language such as "FORTRAN"-compiler
-In 1989, ANSI-C started standardising C-language since it started becoming popular
+In 1989, [American National Standards Institute] ANSI-C started standardising C-language, 
+    since it started becoming popular
+Different compiler(s) show different behaviour for a same particular C-code-program thus 
+    creating problems like the C-code-program working in Turbo-C-compiler but errors in GCC-compiler
+    Thus C90-standard came in 1990,
+         C95-standard came in 1995
 
 AmanBytes
 https://www.youtube.com/watch?v=dTp0c41XnrQ&t=146s 
@@ -80,14 +87,15 @@ Problem Solving through Programming in C
 https://www.youtube.com/watch?v=5AHRXOtn9bY&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=2
 Idea of Algorithms [Watched-27.46]
 Problems that can b solved through programming:
-    Steps to execute to arrive at the desired result are known only such problems can b resolved
+    Whereever the steps to execute to arrive at the desired result are known, only such 
+    problems can b resolved
 Programming = Set of instructions to be provided to a computer-machine to solve a 
             problem
             Computer-machine = An electronic machine made of switches understanding only
             0 [zeros] and 1 [ones] 
 
 https://www.youtube.com/watch?v=O8vPR3zh5go&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=3
-Flow Chart and Pseudocode [22.30/32.15]
+Flow Chart and Pseudocode [Watched-32.15]
 Algorithm = Sequence of steps to be followed to solve a problem
 Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation of a 
                                                     sequence of steps]
@@ -101,7 +109,7 @@ Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode2.png"                                            
 
 https://www.youtube.com/watch?v=IdXrCPzNnkU&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=4
-Introduction to Programming Language Concepts [12.0/34.39]
+Introduction to Programming Language Concepts [14.29/34.39]
     Text/Reference Book(s): C Programming: Kernighan and Ritchie, 
                             Programming w/ C -B. S. Gottfried, Tata McGraw-Hill
 *What is a computer?
@@ -109,6 +117,8 @@ Introduction to Programming Language Concepts [12.0/34.39]
     The specified sequence of steps is remembered by the computer-machine in its memory
     Each 0 or 1 is known as binary-digit [i.e. bit]
     Binary Number System [0, 1]
+    "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0\Binary number system Vs Decimal digit system.png"
+
 
 Reference(s) / URL(s) / Source(s):
 
