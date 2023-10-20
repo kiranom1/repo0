@@ -3,7 +3,8 @@ https://learn-c.org/en/Pointers
     -Strings -Dynamic memory allocation
     -Pointing to functions -Sending function-arguments by reference
     -Building complicated-data-structures and data-structures [Trees, Tries]
-Next read from: A pointer is essentially
+ Pointer [Integer-variable] = Memory-address that points to a value
+Next read from: The computer's memory is
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
