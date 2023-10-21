@@ -80,7 +80,8 @@ Other header-files [.h] can be imported into .c files
                                                                 for output) functions]
     [ #include"CustomisedOwnHeaderFile.h"] Eg. #include"filename.h"
     There are 32 keywords in C language: auto, break, case, char, const, continue, 
-                                        default, do
+                                        default, do, 
+                                        double, else, enum, extern, float, for, goto, if, 
 
 
 
