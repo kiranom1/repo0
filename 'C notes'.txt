@@ -38,11 +38,15 @@ Programming = Process of "writing  the collection of instructions" that a comput
 *A Brief History of the C Programming Language
     Developed by Dennis Ritchie at AT&T Bell Laboratories
     C = Inspiration from [B+ Basic-Combined-Programming-Language [BCPL]] + Additional-features
-    According to TIOBE index, C is the second most popular as of August2023.
+    According to TIOBE index, C is the second most popular as of August2023
         [[TIOBE - The Importance Of Being Earnest]]
+    This is because C is considered the "mother of programming-languages
+    CPython [Python's interpreter and default implementation] is written in C
+    C was originally designed w/ systems-programming in mind
+    C-programs are portable [i.e. can b executed across different platforms w/ minimal changes]
+    C allows dynamic-direct-memory-manipulation, thus ideal for performance-critical-applications
 
-
-Next time read from: This is because C is
+Next time read from: And C provides higher-level
 
 
 CodeWithHarry
