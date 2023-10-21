@@ -4,7 +4,8 @@ https://learn-c.org/en/Pointers
     -Pointing to functions -Sending function-arguments by reference
     -Building complicated-data-structures and data-structures [Trees, Tries]
  Pointer [Integer-variable] = Memory-address that points to a value
-Next read from: The computer's memory is
+ Computer's-Memory = Sequential store of data; Pointer points to a specific part of the memory
+Next read from: The following line:
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
