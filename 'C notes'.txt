@@ -116,7 +116,7 @@ Algorithm can be expressed in two forms: -Flowchart [Diagrammatic representation
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\Flowchart-Pseudocode2.png"                                            
 
 https://www.youtube.com/watch?v=IdXrCPzNnkU&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1&index=4
-Introduction to Programming Language Concepts [15.35/34.39]
+Introduction to Programming Language Concepts [27.35/34.39]
     Text/Reference Book(s): C Programming: Kernighan and Ritchie, 
                             Programming w/ C -B. S. Gottfried, Tata McGraw-Hill
 *What is a computer?
@@ -129,6 +129,8 @@ Introduction to Programming Language Concepts [15.35/34.39]
 Binary to Decimal and Decimal to Binary:
     "C:\Users\Administrator\Documents\dnpNewMachine\'Programming Languages'\C\repo0\DecimalToBinary-BinaryToDecimal.xlsx"
 ]]
+    A computer-machine understands only machine-language [i.e. 0 and 1 language]
+    Compiler = Translator that converts high-level-language to machine-language
 
 Reference(s) / URL(s) / Source(s):
 
