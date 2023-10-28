@@ -5,7 +5,10 @@ https://learn-c.org/en/Pointers
     -Building complicated-data-structures and data-structures [Trees, Tries]
  Pointer [Integer-variable] = Memory-address that points to a value
  Computer's-Memory = Sequential store of data; Pointer points to a specific part of the memory
-Next read from: The following line:
+
+ Strings as pointers:
+    Null-terminator [\0] = Character w/ ordinal-value of zero
+Next read from: Dereferencing is the act
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
