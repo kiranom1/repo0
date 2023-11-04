@@ -8,7 +8,10 @@ https://learn-c.org/en/Pointers
 
  Strings as pointers:
     Null-terminator [\0] = Character w/ ordinal-value of zero
-Next read from: Dereferencing is the act
+
+ Dereferencing = Act of where the pointer points [i.e. the value]
+ Eg. Accessing the any element in an array Eg. arrayName[0], arrayName[3]
+Next read from: Dereferencing a pointer is done using
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
