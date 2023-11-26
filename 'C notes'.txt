@@ -11,7 +11,10 @@ https://learn-c.org/en/Pointers
 
  Dereferencing = Act of where the pointer points [i.e. the value]
  Eg. Accessing the any element in an array Eg. arrayName[0], arrayName[3]
-Next read from: Exercise
+
+https://learn-c.org/en/Structures
+
+Next read from: C structures are special
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
