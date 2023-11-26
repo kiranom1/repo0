@@ -1,6 +1,6 @@
 /* Create a pointer to the local variable n called pointer_to_n, and use it to increase the value of n by one. */
 
-/* Program to increase variable-value using pointer */
+/* Program to increase variable value using pointer */
 
 #include<stdio.h>
 #include<stdlib.h>
