@@ -13,8 +13,18 @@ https://learn-c.org/en/Pointers
  Eg. Accessing the any element in an array Eg. arrayName[0], arrayName[3]
 
 https://learn-c.org/en/Structures
+*Structure = Variable1+ Variable2+ ...+ Variable<n>
+    Used for: -Serialization of data
+              -Data-structures [Linked-lists, Binary-trees]
+              -Passing multiple arguments in and out of functions through a 
+                single-argument
+    Eg. struct point {
+            int o;
+            int m;
+    };        
 
-Next read from: C structures are special
+
+Next read from: The most basic
 
 
 https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/  
